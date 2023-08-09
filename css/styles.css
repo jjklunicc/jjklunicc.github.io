@@ -11333,3 +11333,6 @@ section.resume-section .resume-section-content {
 #interests .img-wrapper:hover img {
   transform: scale(1.2);
 }
+.project-func{
+  width: 80%;
+}
